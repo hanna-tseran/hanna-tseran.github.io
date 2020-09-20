@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hanna Tseran"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "IMPRS PhD student at Max Planck Institute for Mathematics in the Sciences working in the field of machine learning theory"
   location         : "Germany, Leipzig"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/hanna-tseran/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
