@@ -1,7 +1,7 @@
 ---
 title: "Memory augmented neural network with Gaussian embeddings for one-shot learning."
 collection: publications
-permalink: /publication/2017-10-01-paper-title-number-1.md
+permalink: /publication/2017-10-01-memory-augmented-one-shot.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-10-01
 venue: 'NIPS Workshop on Bayesian Deep Learning'
