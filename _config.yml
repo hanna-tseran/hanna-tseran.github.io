@@ -84,10 +84,10 @@ author:
   avatar           : "profile.jpg"
   bio              : "PhD student at MPI MiS focusing on machine learning theory"
   location         : "Germany, Leipzig"
-  employer         :
+  employer         : MIS MiS
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Ru1jQaAAAAAJ&hl=en"
-  email            :
+  email            : hanna.tseran at mis.mpg.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hanna-tseran"
+  github           : # "hanna-tseran"
   google_plus      :
   keybase          :
   instagram        :
