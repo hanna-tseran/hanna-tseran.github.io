@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D. in Computer Science (expected), Max Planck Institute for Mathematics in the Sciences**, Germany, Jan 2020 - Present<br/>
+  Supervisor: Prof. Guido Montúfar, Mathematical Machine Learning Group
+* **Master of Information Science and Technology, The University of Tokyo**, Japan, 2018<br/>
+  Supervisor: Prof. Tatsuya Harada, Machine Intelligence Lab
+* **Specialist Degree in Computer Science, Belarusian State University**, Belarus, 2015
 
 Experience
 ======
