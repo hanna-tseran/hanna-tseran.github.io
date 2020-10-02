@@ -12,3 +12,7 @@ You can also find some of my publications on <u><a href="{{author.googlescholar}
 {% endif %}
 
 {% include base_path %}
+
+{% if author.googlescholar %}
+  <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+{% endif %}
