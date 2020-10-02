@@ -14,9 +14,13 @@ Education
 * **Max Planck Institute for Mathematics in the Sciences** <span style="float:right;"> Leipzig, Germany </span><br/>
   _Ph.D. in Computer Science (expected)_  <span style="float:right;">  Jan 2020 &mdash; Present </span><br/>
   Supervisor: Prof. Guido Montúfar, Mathematical Machine Learning Group
-* **Master of Information Science and Technology, The University of Tokyo**, Japan, 2018<br/>
+  
+* **The University of Tokyo** <span style="float:right;"> Tokyo, Japan </span><br/>
+  _Master of Information Science and Technology_ <span style="float:right;">  2018 </span><br/>
   Supervisor: Prof. Tatsuya Harada, Machine Intelligence Lab
-* **Specialist Degree in Computer Science, Belarusian State University**, Belarus, 2015
+  
+* **Belarusian State University** <span style="float:right;"> Minsk, Belarus </span><br/>
+  _Specialist Degree in Computer Science_ <span style="float:right;"> 2015 </span><br/>
 
 Experience
 ======
