@@ -22,8 +22,9 @@ Education
 
 Experience
 ======
-* Research Software Engineer, Dec 2018 - Dec 2019
-  Microsoft Research, Cambridge, UK
+* **Research Software Engineer**, <span style="float:right;"> Dec 2018 &mdash; Dec 2019 </span><br/>
+  _Microsoft Research_, <span style="float:right;"> Cambridge, UK </span><br/>
+  <!--TrueSkill project led by Dr. Tom Minka-->
 * Research Assistant, Nov 2017 - Aug 2018
   RIKEN Center for Advanced Intelligence Project, Tokyo, Japan
 * Site Reliability Engineering Intern, Jul 2017 -- Oct 2017
