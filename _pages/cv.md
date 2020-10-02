@@ -25,10 +25,10 @@ Experience
 * **Research Software Engineer**, <span style="float:right;"> Dec 2018 &mdash; Dec 2019 </span><br/>
   _Microsoft Research_, <span style="float:right;"> Cambridge, UK </span><br/>
   <!--TrueSkill project led by Dr. Tom Minka-->
-* Research Assistant, Nov 2017 - Aug 2018
-  RIKEN Center for Advanced Intelligence Project, Tokyo, Japan
-* Site Reliability Engineering Intern, Jul 2017 -- Oct 2017
-  Google, Dublin, Ireland
+* **Research Assistant**, <span style="float:right;"> Nov 2017 &mdash; Aug 2018 </span><br/>
+  _RIKEN Center for Advanced Intelligence Project (AIP)_, <span style="float:right;"> Tokyo, Japan </span><br/>
+* **Site Reliability Engineering Intern**, <span style="float:right;"> Jul 2017 &mdash; Oct 2017 </span><br/>
+  _Google_, <span style="float:right;"> Dublin, Ireland </span><br/>
 
 You can download a more detailed CV in the pdf format [here](https://hanna-tseran.github.io/files/Public_CV_Hanna_Tseran.pdf).
   
