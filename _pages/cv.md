@@ -19,28 +19,12 @@ Education
 
 Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Software Engineer, Dec 2018 - Dec 2019
+  Microsoft Research, Cambridge, UK
+* Research Assistant, Nov 2017 - Aug 2018
+  RIKEN Center for Advanced Intelligence Project, Tokyo, Japan
+* Site Reliability Engineering Intern, Jul 2017 -- Oct 2017
+  Google, Dublin, Ireland
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+You can also download a more detailed CV in the pdf format [here].
   
