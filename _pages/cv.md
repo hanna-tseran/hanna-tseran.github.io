@@ -33,6 +33,13 @@ Experience
   _The University of Tokyo_ <span style="float:right;"> Tokyo, Japan </span><br/>
 * **Software Engineer** <span style="float:right;"> Dec 2014 &mdash; Mar 2016 </span><br/>
   _Yandex_ <span style="float:right;"> Minsk, Belarus </span><br/>
+  
+Skills
+======
+* Languages: Python, C#, C++
+* Libraries: PyTorch, Tensorflow, Infer.NET
+* General: Algorithms, Parallel Computing
+* Spoken Languages: Russian (native), English (professional), Japanese (daily communication)
 
 You can download a more detailed CV in the pdf format [here](https://hanna-tseran.github.io/files/Public_CV_Hanna_Tseran.pdf).
   
