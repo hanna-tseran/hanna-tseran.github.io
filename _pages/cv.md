@@ -26,5 +26,5 @@ Experience
 * Site Reliability Engineering Intern, Jul 2017 -- Oct 2017
   Google, Dublin, Ireland
 
-You can download a more detailed CV in the pdf format [here](http://academicpages.github.io/files/Public_CV_Hanna_Tseran.pdf).
+You can download a more detailed CV in the pdf format [here](https://hanna-tseran.github.io/files/Public_CV_Hanna_Tseran.pdf).
   
