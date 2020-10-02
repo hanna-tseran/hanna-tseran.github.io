@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Computer Science (expected), Max Planck Institute for Mathematics in the Sciences**, Germany, Jan 2020 - Present<br/>
+* **Max Planck Institute for Mathematics in the Sciences** <span style="float:right;"> Leipzig, Germany </span><br/>
+  _Ph.D. in Computer Science (expected)_, Jan 2020 &mdash; Present<br/>
   Supervisor: Prof. Guido Montúfar, Mathematical Machine Learning Group
 * **Master of Information Science and Technology, The University of Tokyo**, Japan, 2018<br/>
   Supervisor: Prof. Tatsuya Harada, Machine Intelligence Lab
