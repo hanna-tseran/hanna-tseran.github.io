@@ -36,10 +36,9 @@ Experience
   
 Skills
 ======
-* Languages: Python, C#, C++
-* Libraries: PyTorch, Tensorflow, Infer.NET
-* General: Algorithms, Parallel Computing
-* Spoken Languages: Russian (native), English (professional), Japanese (daily communication)
+* **Languages**: Python, C#, C++
+* **Libraries**: PyTorch, Tensorflow, Infer.NET
+* **General**: Algorithms, Parallel Computing
 
 You can download a more detailed CV in the pdf format [here](https://hanna-tseran.github.io/files/Public_CV_Hanna_Tseran.pdf).
   
