@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This website is currently under construction, so please, be careful trusting any information on it. :) Sorry!
-
-I am currently an International Max Planck Research School (IMPRS) PhD student at Max Planck Institute for Mathematics in the Sciences (MPI MiS) working in the field of machine learning theory. I am focusing more on the deep learning theory and recently especially on the problems related to the neural network expressivity.
+I am currently a Ph.D. student in computer science. I am broadly interested in machine learning, leaning to the theoretical side. These days I am focusing on deep learning theory and especially on neural network expressivity. I work in Guido Montúfar's group at Max Planck Institute for Mathematics in the Sciences (MPI MiS) in Leipzig, Germany. I am also a student at International Max Planck Research School for Mathematics in the Sciences (IMPRS MiS). 
