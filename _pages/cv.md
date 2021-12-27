@@ -34,5 +34,5 @@ Experience
 * **Software Engineer** <span style="float:right;"> Dec 2014 &mdash; Mar 2016 </span><br/>
   _Yandex_ <span style="float:right;"> Minsk, Belarus </span><br/>
 
-You can download a more detailed CV in the pdf format [here](https://hanna-tseran.github.io/files/Public_CV_Hanna_Tseran.pdf).
+You can download a more detailed CV in the pdf format [here](https://hanna-tseran.github.io/files/CV.pdf).
   
