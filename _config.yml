@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hanna Tseran"
   avatar           : "profile.jpg"
-  bio              : "PhD student at MPI MiS focusing on machine learning"
+  bio              : "Ph.D. Student in Deep Learning Theory at MPI MiS"
   location         : "Leipzig, Germany"
   employer         : # MPI MiS
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "hanna-tseran"
+  github           : "hanna-tseran"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "htseran"
+  twitter          : # "htseran"
   vine             :
   weibo            :
   xing             :
