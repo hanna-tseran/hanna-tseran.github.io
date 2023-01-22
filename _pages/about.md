@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in computer science working in Guido Montúfar's group at Max Planck Institute for Mathematics in the Sciences (MPI MiS) in Leipzig, Germany. I am also a student at International Max Planck Research School for Mathematics in the Sciences (IMPRS MiS). I expect to graduate in July 2023.
-
+I am a fourth-year Ph.D. student in computer science working in Guido Montúfar's group at Max Planck Institute for Mathematics in the Sciences (MPI MiS) in Leipzig, Germany. I am also a student at International Max Planck Research School for Mathematics in the Sciences (IMPRS MiS). I expect to graduate in **July 2023**. 
 
 I am broadly interested in **machine learning**, focusing more on the **mathematical aspects**. I believe we should comprehend how the existing deep learning systems work to build more advanced ones. Hence, I am particularly fascinated by the **theory of deep neural networks** for its benefits for understanding deep learning mechanics, knowledgeably designing machine learning models, and ensuring positive societal impacts.
 
-I am curious about various topics in the field, but recently I have been incredibly excited by neural network **expressivity**, **generalization**, and **optimization**. Lately, I have been concentrating more on the effects of the **activation function** and **network initialization** on these questions and studying **over-parametrization**, **NTK**, and **implicit bias**.
+I am curious about various topics in the field, but recently I have been incredibly excited by neural network **expressivity**, **generalization**, and **optimization**. Lately, I have been concentrating more on the effects of the **activation function** and **network initialization** on these questions and studying **over-parametrization**, **NTK**, and **implicit bias**. Additionally, I enjoy considering what it would take for the models to operate in the real world. With this intent, I studied **few-shot learning**, **continual learning**, and **long-term memory in conversational AI**. My other interest is practical architectures, such as **transformers**, **graph neural networks**, and **Bayesian neural networks**.
 
-Additionally, I enjoy considering what it would take for the models to operate in the real world. With this intent, I studied **few-shot learning**, **continual learning**, and **long-term memory in conversational AI**. My other interest is practical architectures, such as **transformers**, **graph neural networks**, and **Bayesian neural networks**.
+_I am currently looking for research positions both in academia and industry. Feel free to contact me at my e-mail: hanna.tseran at gmail.com._
