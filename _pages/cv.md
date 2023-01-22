@@ -22,6 +22,9 @@ Education
 
 Experience
 ======
+* **Applied Scientist Intern** <span style="float:right;"> Nov 2022 &mdash; Mar 2023 </span><br/>
+  _Amazon_ <span style="float:right;"> Berlin, Germany </span><br/>
+  <!--Natural Language Processing-->
 * **Research Software Engineer** <span style="float:right;"> Dec 2018 &mdash; Dec 2019 </span><br/>
   _Microsoft Research_ <span style="float:right;"> Cambridge, UK </span><br/>
   <!--TrueSkill project led by Dr. Tom Minka-->
