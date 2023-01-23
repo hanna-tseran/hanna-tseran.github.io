@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 * Tseran, Hanna, and Guido Montúfar. "**Expected Gradients of Maxout Networks and Consequences to Parameter Initialization.**" arXiv
-preprint, 2023. [arxiv](https://arxiv.org/abs/2301.06956)
+preprint arXiv:2301.06956, 2023. [arxiv](https://arxiv.org/abs/2301.06956)
 * Tseran, Hanna, and Guido Montúfar. "**On the Expected Complexity of Maxout Networks.**" Advances in Neural Information Processing Systems, 2021. [arxiv](https://arxiv.org/abs/2107.00379)
 * Tseran, Hanna, et al. "**Natural Variational Continual Learning.**" NeurIPS Workshop on Continual Learning, 2018. [pdf](https://hanna-tseran.github.io/files/NeurIPS_Continual_Learning_Workshop_2018_Paper.pdf)
 * Tseran, Hanna, and Tatsuya Harada. "**Variational Inference for Continual Learning by using Weight-Perturbation in Adam.**" Master's Thesis, 2018. [pdf](https://hanna-tseran.github.io/files/TseranHanna_Mthesis.pdf)
