@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in computer science working in Guido Montúfar's group at Max Planck Institute for Mathematics in the Sciences (MPI MiS) in Leipzig, Germany. I am also a student at International Max Planck Research School for Mathematics in the Sciences (IMPRS MiS). I expect to graduate in <ins>July 2023</ins>. 
+I am a fourth-year Ph.D. student in computer science working in Guido Montúfar's group at Max Planck Institute for Mathematics in the Sciences (MPI MiS) in Leipzig, Germany. I am also a student at International Max Planck Research School for Mathematics in the Sciences (IMPRS MiS). I expect to graduate in <ins>$\color{teal}{\text{July 2023}}$</ins>. 
 
 I am broadly interested in <ins>machine learning</ins>, focusing more on the <ins>mathematical aspects</ins>. I believe we should comprehend how the existing deep learning systems work to build more advanced ones. Hence, I am particularly fascinated by the <ins>theory of deep neural networks</ins> for its benefits for understanding deep learning mechanics, knowledgeably designing machine learning models, and ensuring positive societal impacts.
 
