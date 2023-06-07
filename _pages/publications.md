@@ -15,4 +15,4 @@ author_profile: true
 * **Tseran, Hanna**, and Tatsuya Harada. "**Memory augmented neural network with Gaussian embeddings for one-shot learning.**" NeurIPS Workshop on Bayesian Deep Learning, 2017. [pdf](https://hanna-tseran.github.io/files/NIPS_Bayesian_Deep_Learning_Workshop_2017_Paper.pdf)
 * **Tseran, Hanna**, and Yuri Svirid. "**Algorithms for recognition of circular objects and elements on them (in case of coins).**" Specialist Thesis, 2015. (In Russian)
 
-You can also find some of my publications on <a href="{{ "https://scholar.google.com/citations?user=Ru1jQaAAAAAJ&hl=en"}}">my Google Scholar profile</a>.
+You can also find my publications in <a href="{{ "https://scholar.google.com/citations?user=Ru1jQaAAAAAJ&hl=en"}}">my Google Scholar profile</a>.
