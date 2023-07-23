@@ -18,4 +18,4 @@ My <ins>research interests</ins> include:
 - realistic settings such as few-shot learning and continual learning;
 - network architectures, such as transformers, graph neural networks, VAEs, and Bayesian neural networks.
 
-_I expect to graduate in July 2023, and I am currently looking for research positions in academia and industry. Feel free to contact me via my e-mail: hanna.tseran at gmail.com._
+_I am looking for research positions in academia and industry. Feel free to contact me via my e-mail: hanna.tseran at gmail.com._
