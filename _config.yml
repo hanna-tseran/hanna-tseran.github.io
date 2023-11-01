@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hanna Tseran"
 title_separator          : "-"
 name                     : &name "Hanna Tseran"
-description              : &description "IMPRS PhD student at MPI MiS"
+description              : &description ""
 url                      : https://hanna-tseran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanna-tseran.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hanna Tseran"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student in Deep Learning Theory at MPI MiS"
-  location         : "Leipzig, Germany"
-  employer         : # MPI MiS
+  bio              : "Project Researcher in Deep Learning Theory at The University of Tokyo"
+  location         : "Tokyo, Japan"
+  employer         : # 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Ru1jQaAAAAAJ&hl=en"
   email            : "hanna.tseran at gmail.com"
