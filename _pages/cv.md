@@ -26,7 +26,7 @@ Experience
 Education
 ======
 * **Max Planck Institute for Mathematics in the Sciences** <span style="float:right;"> Leipzig, Germany </span><br/>
-  _Ph.D. in Computer Science_  <span style="float:right;">  2020 &mdash; 2023 </span><br/>
+  _Ph.D. in Computer Science_  <span style="float:right;">  2023 </span><br/>
   Supervisor: Prof. Guido Montúfar, Mathematical Machine Learning Group  
 * **The University of Tokyo** <span style="float:right;"> Tokyo, Japan </span><br/>
   _Master of Information Science and Technology_ <span style="float:right;">  2018 </span><br/>
