@@ -14,8 +14,8 @@ author_profile: true
 * **Tseran, Hanna**, and Tatsuya Harada. "**Memory augmented neural network with Gaussian embeddings for one-shot learning.**" NeurIPS Workshop on Bayesian Deep Learning, 2017. [pdf](https://hanna-tseran.github.io/files/NIPS_Bayesian_Deep_Learning_Workshop_2017_Paper.pdf)
 
 ## **Theses**
-* "**Expected Complexity and Gradients of Deep Maxout Neural Networks and Implications to Parameter Initialization.**", Doctoral Thesis, Supervisor: Guido Montufar, 2023. [pdf](https://hanna-tseran.github.io/files/Thesis.pdf)
-* "**Variational Inference for Continual Learning by using Weight-Perturbation in Adam.**" Master's Thesis, Supervisor: Tatsuya Harada, 2018. [pdf](https://hanna-tseran.github.io/files/TseranHanna_Mthesis.pdf)
-* "**Algorithms for recognition of circular objects and elements on them (in case of coins).**" Specialist Thesis, Supervisor: Yuri Svirid, 2015. (In Russian)
+* "**Expected Complexity and Gradients of Deep Maxout Neural Networks and Implications to Parameter Initialization.**", Doctoral Thesis, Supervisor: Prof. Guido Montufar, 2023. [pdf](https://hanna-tseran.github.io/files/Thesis.pdf)
+* "**Variational Inference for Continual Learning by using Weight-Perturbation in Adam.**" Master's Thesis, Supervisor: Prof. Tatsuya Harada, 2018. [pdf](https://hanna-tseran.github.io/files/TseranHanna_Mthesis.pdf)
+* "**Algorithms for recognition of circular objects and elements on them (in case of coins).**" Specialist Thesis, Supervisor: Prof. Yuri Svirid, 2015. (In Russian)
 
 You can also find my publications in <a href="{{ "https://scholar.google.com/citations?user=Ru1jQaAAAAAJ&hl=en"}}">my Google Scholar profile</a>.
