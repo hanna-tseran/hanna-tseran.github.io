@@ -15,6 +15,6 @@ I am broadly interested in machine learning, focusing more on the mathematical a
 
 My <ins>research interests</ins> include:
 - expressivity, generalization, and optimization;
-- over-parametrized networks and implicit bias;
+- over-parameterized networks and implicit bias;
 - realistic settings such as few-shot learning and continual learning;
 - network architectures, such as transformers, graph neural networks, VAEs, and Bayesian neural networks.
