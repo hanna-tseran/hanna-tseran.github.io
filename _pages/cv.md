@@ -11,7 +11,10 @@ redirect_from:
 
 Experience
 ======
-* **Project Researcher** <span style="float:right;"> Nov 2023 &mdash; Present </span><br/>
+* **Postdoctoral Researcher** <span style="float:right;"> Apr 2024 &mdash; Present </span><br/>
+  _RIKEN Center for Advanced Intelligence Project (AIP)_ <span style="float:right;"> Tokyo, Japan </span><br/>
+  <!--High-Dimensional Causal Analysis Team (Team leader: Prof. Masaaki Imaizumi)-->
+* **Project Researcher** <span style="float:right;"> Nov 2023 &mdash; Mar 2024 </span><br/>
   _The University of Tokyo_ <span style="float:right;"> Tokyo, Japan </span><br/>
   <!--Matsuo Laboratory-->
 * **Applied Scientist Intern** <span style="float:right;"> Nov 2022 &mdash; Mar 2023 </span><br/>
