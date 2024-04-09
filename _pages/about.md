@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Project Researcher at the University of Tokyo in the Matsuo Laboratory.
-Previously, I was a Ph.D. student in computer science working in Guido Montúfar's group at Max Planck Institute for Mathematics in the Sciences (MPI MiS) in Leipzig, Germany.
+I am a Postdoctoral Researcher at RIKEN AIP, working on the High-Dimensional Causal Analysis Team (Team leader: Prof. Masaaki Imaizumi).
+Previously, I was a Project Researcher at the University of Tokyo in the Matsuo Lab and obtained a Ph.D. in computer science under the supervision of Prof. Guido Montúfar at Max Planck Institute for Mathematics in the Sciences (MPI MiS) in Leipzig, Germany.
 
-I am broadly interested in machine learning, focusing more on the mathematical aspects. I am particularly fascinated by <ins>deep learning theory</ins> for its benefits for understanding deep learning mechanics, knowledgeably designing machine learning models, and ensuring positive societal impacts.
 
-My <ins>research interests</ins> include:
+#### Research Interests
+I focus on deep learning theory, and recently, I have been particularly interested in the theoretical analysis of Large Language Models (LLMs).
+On a broader spectrum, my research interests include:
 - expressivity, generalization, and optimization;
 - over-parameterized networks and implicit bias;
 - realistic settings such as few-shot learning and continual learning;
-- network architectures, such as transformers, graph neural networks, VAEs, and Bayesian neural networks.
+- network architectures, such as transformers and graph neural networks.
