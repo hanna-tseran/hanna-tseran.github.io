@@ -12,7 +12,7 @@ I am a Postdoctoral Researcher at RIKEN AIP, working on the High-Dimensional Cau
 Previously, I was a Project Researcher at the University of Tokyo in the Matsuo Lab and obtained a Ph.D. in computer science under the supervision of Prof. Guido Montúfar at Max Planck Institute for Mathematics in the Sciences (MPI MiS) in Leipzig, Germany.
 
 
-#### Research Interests
+### Research Interests
 I focus on deep learning theory, and recently, I have been particularly interested in the theoretical analysis of Large Language Models (LLMs).
 On a broader spectrum, my research interests include:
 - expressivity, generalization, and optimization;
