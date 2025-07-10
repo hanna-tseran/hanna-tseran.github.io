@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper-Conference | Hugo Academic CV Theme</title>
-    <link>http://localhost:49416/publication_types/paper-conference/</link>
-      <atom:link href="http://localhost:49416/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/paper-conference/</link>
+      <atom:link href="http://localhost:1313/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49416/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Paper-Conference</title>
-      <link>http://localhost:49416/publication_types/paper-conference/</link>
+      <link>http://localhost:1313/publication_types/paper-conference/</link>
     </image>
     
     <item>
       <title>Expected Gradients of Maxout Networks and Consequences to Parameter Initialization.</title>
-      <link>http://localhost:49416/publication/2023icml/</link>
+      <link>http://localhost:1313/publication/2023icml/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49416/publication/2023icml/</guid>
+      <guid>http://localhost:1313/publication/2023icml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Expected Complexity of Maxout Networks.</title>
-      <link>http://localhost:49416/publication/2021neurips/</link>
+      <link>http://localhost:1313/publication/2021neurips/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49416/publication/2021neurips/</guid>
+      <guid>http://localhost:1313/publication/2021neurips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural Variational Continual Learning.</title>
-      <link>http://localhost:49416/publication/2018neuripsw/</link>
+      <link>http://localhost:1313/publication/2018neuripsw/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49416/publication/2018neuripsw/</guid>
+      <guid>http://localhost:1313/publication/2018neuripsw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Memory augmented neural network with Gaussian embeddings for one-shot learning.</title>
-      <link>http://localhost:49416/publication/2017neuripsw/</link>
+      <link>http://localhost:1313/publication/2017neuripsw/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49416/publication/2017neuripsw/</guid>
+      <guid>http://localhost:1313/publication/2017neuripsw/</guid>
       <description></description>
     </item>
     

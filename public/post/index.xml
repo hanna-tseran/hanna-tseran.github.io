@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Hugo Academic CV Theme</title>
-    <link>http://localhost:49416/post/</link>
-      <atom:link href="http://localhost:49416/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49416/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
-      <link>http://localhost:49416/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
       <title>🎉 This website is up</title>
-      <link>http://localhost:49416/post/get-started/</link>
+      <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49416/post/get-started/</guid>
+      <guid>http://localhost:1313/post/get-started/</guid>
       <description>&lt;!-- 
 Welcome 👋
 
@@ -98,9 +98,9 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
     
     <item>
       <title>KAKENHI 2025</title>
-      <link>http://localhost:49416/post/kakenhi-2025/</link>
+      <link>http://localhost:1313/post/kakenhi-2025/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49416/post/kakenhi-2025/</guid>
+      <guid>http://localhost:1313/post/kakenhi-2025/</guid>
       <description></description>
     </item>
     
