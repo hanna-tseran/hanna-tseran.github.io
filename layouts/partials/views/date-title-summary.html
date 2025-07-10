@@ -1,0 +1,45 @@
+{{ $item := .item }}
+{{ $page := .page }}
+{{ $summary := $item.Params.summary | default $item.Params.description | default $item.Summary }}
+{{ $summary =  $summary | page.RenderString }}
+<article class="md:grid md:grid-cols-4 md:items-baseline">
+  <div class="md:col-span-3 group relative flex flex-col items-start">
+    <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
+      <span class="relative z-10">{{ $item.Title }}</span>
+    </h2>
+    <time
+      class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-1"
+      datetime="{{ time.Format "2006-01-02" $item.Date }}">
+      {{ time.Format (site.Params.locale.date_format | default ":date_long") $item.Date }}
+    </time>
+    {{/* per-post control: summaryOnly, truncated, or full content */}}
+    {{ if $item.Params.summaryOnly }}
+      <!-- 1) excerpt-only posts -->
+      <p class="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">
+        {{$summary}}
+      </p>
+
+    {{ else if $item.Truncated }}
+      <!-- 2) posts with <!--more-->: teaser + link -->
+      <p class="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">
+        {{$summary}}
+      </p>
+      <div class="relative z-10 mt-4">
+        <a href="{{ $item.RelPermalink }}" class="flex items-center text-sm font-medium text-primary-500">
+          {{ T "read_more" | default "Read more" }}
+          <svg aria-hidden="true" class="ml-1 h-4 w-4 stroke-current" …></svg>
+        </a>
+      </div>
+
+    {{ else }}
+      <!-- 3) all other posts: full content inline -->
+      <div class="prose relative z-10 mt-2 text-sm text-zinc-600 dark:prose-invert dark:text-zinc-400">
+        {{ $item.Content }}
+      </div>
+    {{ end }}
+  </div>
+  <time
+    class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500"
+    datetime="{{ time.Format "2006-01-02" $item.Date }}">{{ time.Format (site.Params.locale.date_format | default ":date_long") $item.Date }}
+  </time>
+</article>

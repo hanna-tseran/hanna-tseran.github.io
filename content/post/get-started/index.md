@@ -1,7 +1,8 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉 This website is up
+summaryOnly: True
+summary: Welcome! I plan to publish here details of my work and news.
+date: 2025-07-10
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -10,14 +11,13 @@ image:
 
 authors:
   - admin
-  - Ted
 
-tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+# tags:
+#   - Academic
+#   - Hugo Blox
+#   - Markdown
 ---
-
+<!-- 
 Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
@@ -83,4 +83,4 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. -->
