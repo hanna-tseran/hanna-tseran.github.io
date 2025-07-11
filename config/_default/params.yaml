@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Personal website of Hanna Tseran'
+    description: 'Hanna Tseran is a postdoctoral researcher with a focus on deep learning theory'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Hanna Tseran | Researcher in Machine Learning"
+      text: "Hanna Tseran | Machine Learning Researcher"
 
 # Site footer
 footer:
