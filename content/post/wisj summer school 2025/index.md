@@ -1,7 +1,7 @@
 ---
-title: WISJ Machine Learning Summer School volunteering
+title: 📅 WISJ Machine Learning Summer School volunteering
 summaryOnly: True
-summary: This summer, I'm volunteering as a mentor and a teaching assistant at the Machine Learning Summer School for Scientists, which started today and is organized by the awesome Women in Science Japan community.
+summary: This summer, I'm volunteering as a mentor and a teaching assistant at the **[Machine Learning Summer School for Scientists 🔗](https://www.womeninsciencejapan.com/machine-learning-program)**, which started today and is organized by the awesome Women in Science Japan community.
 date: 2025-07-12
 
 # Featured image
